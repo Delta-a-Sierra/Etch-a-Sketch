@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+.btn{
+    padding: 10px 15px;
+    background-color: black;
+    color: white;
+}
+
+.container{
+    display: flex;
+}
+
+.row{
+    flex-direction: row;
+}
+
+.center{
+    text-align: center;
+    justify-content: center;
+}
+
+.width-80{
+    width: 80%;
+    height: 100px;
+}
+
+.width-100{
+    width: 100%;
+}
+
+.red{
+    background-color: red;
+}
+
+.square{
+    border: 1px solid black;
+}
+
+.pixellated{
+    background-color: black;
+}
